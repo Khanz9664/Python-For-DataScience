@@ -1,22 +1,13 @@
 # Python Learning Notebooks
 
-Welcome to the **Python Learning Notebooks** repository! This repository contains a collection of Jupyter notebooks that document my Python learning journey. Each notebook covers various Python programming concepts, libraries, and projects.
+Welcome to the **Python Learning Notebooks** repository! This repository contains a collection of Jupyter notebooks that document my Python learning journey. Each notebook covers various Python programming concepts
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Notebooks](#notebooks)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
 This repository is intended to serve as a resource for anyone looking to learn Python or explore various Python-related topics. The notebooks contain beginner-level concepts.
 
 Feel free to explore, learn, and contribute!
-
-## Getting Started
 
 ### Prerequisites
 
@@ -27,5 +18,15 @@ To run these notebooks locally, you will need to have:
 
 You can install the required packages using `pip`:
 
-```bash
+```
 pip install jupyterlab
+```
+##Running the Notebooks
+```
+git clone https://github.com/your-username/Python_Learning_Notebooks.git
+
+cd Python_Learning_Notebooks
+
+jupyter notebook
+```
+
