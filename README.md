@@ -1,4 +1,4 @@
-# Python Learning Notebooks
+# Python Programming Basics 
 
 Welcome to the **Python Learning Notebooks** repository! This repository contains a collection of Jupyter notebooks that document my Python learning journey. Each notebook covers various Python programming concepts
 
@@ -23,9 +23,9 @@ pip install jupyterlab
 ```
 ##Running the Notebooks
 ```
-git clone https://github.com/Khanz9664/Python_Learning_Notebooks.git
+git clone https://github.com/Khanz9664/Python-Programming-Basics.git
 
-cd Python_Learning_Notebooks
+cd Python-Programming-Basics
 
 jupyter notebook
 ```
