@@ -23,7 +23,7 @@ pip install jupyterlab
 ```
 ##Running the Notebooks
 ```
-git clone https://github.com/your-username/Python_Learning_Notebooks.git
+git clone https://github.com/Khanz9664/Python_Learning_Notebooks.git
 
 cd Python_Learning_Notebooks
 
