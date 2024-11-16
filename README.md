@@ -1,4 +1,4 @@
-# Python Programming Basics 
+# Python Programming
 
 Welcome to the **Python Learning Notebooks** repository! This repository contains a collection of Jupyter notebooks that document my Python learning journey. Each notebook covers various Python programming concepts
 
