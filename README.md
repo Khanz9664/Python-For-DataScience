@@ -1,11 +1,11 @@
-# Python Programming
+# Python Programming for Data Science 
 
-Welcome to the **Python Learning Notebooks** repository! This repository contains a collection of Jupyter notebooks that document my Python learning journey. Each notebook covers various Python programming concepts
+Welcome to the **Python Programming for Data Science** repository! This repository contains a collection of Jupyter notebooks that document my Python learning journey for Data Science. Each notebook covers various Python programming concepts.
 
 
 ## Introduction
 
-This repository is intended to serve as a resource for anyone looking to learn Python or explore various Python-related topics. The notebooks contain beginner-level concepts.
+This repository is intended to serve as a resource for anyone looking to learn Python or explore the field of Data Science . The notebooks contain beginner-level to advanced concepts.
 
 Feel free to explore, learn, and contribute!
 
