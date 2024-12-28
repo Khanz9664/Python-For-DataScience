@@ -1,4 +1,4 @@
-Flask==2.2.2
+Streamlit==1.41.1
 scikit-learn==1.2.2
 pandas==1.5.3
 numpy==1.23.5
