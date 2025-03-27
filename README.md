@@ -24,9 +24,11 @@ pip install jupyterlab
 ##Running the Notebooks
 ```
 git clone https://github.com/Khanz9664/Python-Programming-Basics.git
-
+```
+```
 cd Python-Programming-Basics
-
+```
+```
 jupyter notebook
 ```
 
